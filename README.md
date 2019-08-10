@@ -2,7 +2,7 @@
 
 Exemplo simples de como utilizar a camera no react native para criar um leitor de QRCode.
 
-![img_1](https://github.com/greysonmrx/QRCodeScanner/blob/master/Screenshot_20190810-163120%5B1%5D.png | width=100)
+![img_1](https://github.com/greysonmrx/QRCodeScanner/blob/master/Screenshot_20190810-163120%5B1%5D.png){:height="700px" width="400px"}
 ![img_2](https://github.com/greysonmrx/QRCodeScanner/blob/master/Screenshot_20190810-163126%5B1%5D.png)
 
 ## Bibliotecas
